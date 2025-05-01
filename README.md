@@ -25,6 +25,24 @@
 - 🚀 Currently building real-time data pipelines and interactive dashboards
 
 ---
+---
+
+<h2 style="color:#8e44ad;">📄 Research Papers</h2>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/18BT8csBgASjvOsb3mbxJiwcIGpn2u65E/view?usp=drive_link" title="First Research Paper" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/journal.png" alt="Research Paper 1 - [1st Paper]" width="48" height="48"/>
+  </a>
+  <a href="https://drive.google.com/file/d/128b2ZrpqKngrjkIvjFbxFigbkaJnldyq/view?usp=sharing" title="Second Research Paper" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/journal.png" alt="Research Paper 2" width="48" height="48"/>
+  </a>
+</p>
+
+<p align="center">
+  Check out my publications on gesture-based computer vision presented at Springer conferences.
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
