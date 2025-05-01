@@ -2,16 +2,17 @@
 <h3 align="center">🎓 MS in Data Analytics @ San José State University | Aspiring Data Engineer 🚀</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-waghmare-8a631a16b/" target="_blank">
+  <a href="https://www.linkedin.com/in/sarvesh-waghmare-8a631a16b/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/sarvesh172000" target="_blank">
+  <a href="https://github.com/sarvesh172000">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://drive.google.com/file/d/1FbcOSP3fPcgP06Yo1MX-cY3QdgjsQRTb/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1FbcOSP3fPcgP06Yo1MX-cY3QdgjsQRTb/view?usp=sharing">
     <img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
