@@ -3,13 +3,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sarvesh-waghmare-8a631a16b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="40" alt="LinkdIn" />
   </a>
   <a href="https://github.com/sarvesh172000">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  height="40" alt="Github" />
   </a>
-  <a href="https://drive.google.com/file/d/1FbcOSP3fPcgP06Yo1MX-cY3QdgjsQRTb/view?usp=sharing">
-    <img src="https://img.shields.io/badge/Resume-grey?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+  <a href="https://drive.google.com/file/d/1It90SPXWmNbPJO2g_KsiuM5ve6_Xs2D5/view?usp=drive_link">
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
   </a>
 </p>
 
