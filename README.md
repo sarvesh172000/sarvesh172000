@@ -1,92 +1,97 @@
-<h1 align="center">👋 Hey there, I'm Sarvesh Waghmare</h1>
-<h3 align="center">🎓 MS in Data Analytics @ San José State University | Aspiring Data Engineer 🚀</h3>
+# Sarvesh Waghmare
 
+**MS in Applied Data Intelligence · San José State University**
+*Aspiring Data Engineer focusing on scalable data architectures, real-time analytics & cloud platforms*
+
+---
+
+## 🌐 Professional Links
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarvesh-waghmare-8a631a16b/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"  height="40" alt="LinkdIn" />
+  <a href="https://www.linkedin.com/in/sarvesh-waghmare-8a631a16b/" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png" alt="LinkedIn icon" height="30" style="vertical-align:middle;">
+    &nbsp;<strong>LinkedIn</strong>
   </a>
-  <a href="https://github.com/sarvesh172000">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg"  height="40" alt="Github" />
+  &nbsp;│&nbsp;
+  <a href="https://github.com/sarvesh172000" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-glyphs/50/000000/github.png" alt="GitHub icon" height="30" style="vertical-align:middle;">
+    &nbsp;<strong>GitHub</strong>
   </a>
-  <a href="https://drive.google.com/file/d/1It90SPXWmNbPJO2g_KsiuM5ve6_Xs2D5/view?usp=drive_link">
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/parse-from-clipboard.png" alt="parse-from-clipboard"/>
-  </a>
-</p>
-
-
----
-
-### 🧠 About Me
-
-- 🎓 Graduate student at **San José State University** in **Data Analytics**
-- 💡 Passionate about **Data Engineering**, **Cloud Computing**, and **Machine Learning**
-- 🔧 Skilled in Python, SQL, Docker, Kubernetes, and full ETL pipeline development
-- 📄 Published 2 research papers on gesture-based computer vision in Springer conferences
-- 🚀 Currently building real-time data pipelines and interactive dashboards
-
----
----
-
-<h2 style="color:#8e44ad;">📄 Research Papers</h2>
-
-<p align="center">
-  <a href="https://drive.google.com/file/d/18BT8csBgASjvOsb3mbxJiwcIGpn2u65E/view?usp=drive_link" title="First Research Paper" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/journal.png" alt="Research Paper 1 - [1st Paper]" width="48" height="48"/>
-  </a>
-  <a href="https://drive.google.com/file/d/128b2ZrpqKngrjkIvjFbxFigbkaJnldyq/view?usp=sharing" title="Second Research Paper" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/journal.png" alt="Research Paper 2" width="48" height="48"/>
+  &nbsp;│&nbsp;
+  <a href="https://drive.google.com/file/d/1It90SPXWmNbPJO2g_KsiuM5ve6_Xs2D5/view?usp=drive_link" target="_blank" style="text-decoration:none;">
+    <img src="https://img.icons8.com/ios-filled/50/4CAF50/resume.png" alt="Resume icon" height="30" style="vertical-align:middle;">
+    &nbsp;<strong>Resume&nbsp;(PDF)</strong>
   </a>
 </p>
 
+
+
+---
+
+## 🗒️ Profile
+
+* Graduate student passionate about **Data Engineering**, **Cloud Computing**, and **Machine Learning**
+* Experienced in end-to-end **ETL pipeline** development, container orchestration, and distributed systems
+* 2× author in Springer LNCS proceedings for computer-vision gesture interfaces
+* Currently architecting real-time streaming pipelines and interactive analytics dashboards
+
+---
+
+## 🔑 Core Competencies
+
+| Data Engineering                                    | Cloud & DevOps                                                          | Programming & Tools                                                 |
+| --------------------------------------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| ETL / ELT • Data Warehousing • Data Modeling • SCDs | AWS (S3, Glue, Lambda, Redshift) • Docker • Kubernetes • Airflow • NiFi | Python • SQL • JavaScript • Git • DBT • Snowflake • MongoDB • Neo4j |
+
+---
+
+## 📚 Publications
+
+| Year | Title                                                              | Full texts: (Link)                                                                                            |
+| ---- | -------------------------------------------------------------------| ------------------------------------------------------------------------------------------------|
+| 2023 | **Computer Vision-Based Virtual Mouse Cursor Using hand gesture**  | [Paper 1](https://drive.google.com/file/d/128b2ZrpqKngrjkIvjFbxFigbkaJnldyq/view?usp=sharing)   |
+| 2022 | **Hand Gesture Controlled Simulated Mouse Cursor**                 | [Paper 2](https://drive.google.com/file/d/18BT8csBgASjvOsb3mbxJiwcIGpn2u65E/view?usp=drive_link)|
+
+
+---
+
+## 🚀 Selected Projects
+
+| Project                     | Brief                                                                                                                          | Tech                                         |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
+| **Spotifyzer**              | End-to-end pipeline ingesting Spotify API streams, transforming with AWS Glue, and loading to Snowflake for BI-grade analytics | Airflow · AWS S3/Glue · Snowflake · Power BI |
+| **Virtual Mouse**           | Real-time hand-gesture controlled cursor with OpenCV mediapipe                                                                 | Python • OpenCV                              |
+| **Credit Risk Monitor**     | NumPy-powered risk scoring model for loan portfolios                                                                           | Python • NumPy                               |
+| **EV Population Dashboard** | Graph-based insights on EV adoption using MongoDB & Neo4j                                                                      | MongoDB • Neo4j • React                      |
+
+---
+
+## 🛠️ Tech Toolbox
+
 <p align="center">
-  Check out my publications on gesture-based computer vision presented at Springer conferences.
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neo4j/neo4j-original-wordmark.svg" height="40" alt="Neo4j"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+## 🤝 Connect
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS" />
-</p>
+If you’d like to collaborate or just say hi:
+
+```bash
+sarvesh.waghmare101@gmail.com
+```
+
+> *“Data are just summaries of thousands of stories – tell a few of those stories to help make the data meaningful.”* — Chip & Dan Heath
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarvesh172000&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### 📌 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvesh172000&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
----
-
-### 🚀 Featured Projects
-
-- **Spotifyzer** 🎵 – ETL pipeline using Spotify API, Snowflake, Airflow, Power BI  
-- **Virtual Mouse with Hand Gestures** ✋ – Computer Vision–based interaction using Python & OpenCV ([GitHub](https://github.com/sarvesh172000/Computer-Vision-Based-Virtual-Mouse-Cursor-Using-Hand-Gesture))  
-- **Credit Risk Monitor** 💳 – NumPy-powered analysis of loan default probabilities  
-- **EV Population Dashboard** 🚗 – Visualization with MongoDB and Neo4j for electric vehicle adoption
-
----
-
-<p align="center">
-  ☕ Always learning | 💡 Always building | 🤝 Let’s connect!
-</p>
