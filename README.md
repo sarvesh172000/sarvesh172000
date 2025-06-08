@@ -1,6 +1,6 @@
 # Sarvesh Waghmare
 
-**MS in Applied Data Intelligence · San José State University**
+**MS in Applied Data Science, Data Intelligence · San José State University**
 *Aspiring Data Engineer focusing on scalable data architectures, real-time analytics & cloud platforms*
 
 ---
