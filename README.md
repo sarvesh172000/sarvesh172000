@@ -29,7 +29,7 @@
 
 ## 🗒️ Profile
 
-* Graduate student passionate about **Data Engineering**, **Cloud Computing**, and **Machine Learning**
+* Graduate student passionate about **Data Engineering**, **Software Development**, and **Machine Learning**
 * Experienced in end-to-end **ETL pipeline** development, container orchestration, and distributed systems
 * 2× author in Springer LNCS proceedings for computer-vision gesture interfaces
 * Currently architecting real-time streaming pipelines and interactive analytics dashboards
