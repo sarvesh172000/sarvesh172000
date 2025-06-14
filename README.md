@@ -56,12 +56,12 @@
 
 ## 🚀 Selected Projects
 
-| Project                     | Brief                                                                                                                          | Tech                                         |
-| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- |
-| **Spotifyzer**              | End-to-end pipeline ingesting Spotify API streams, transforming with AWS Glue, and loading to Snowflake for BI-grade analytics | Airflow · AWS S3/Glue · Snowflake · Power BI |
-| **Virtual Mouse**           | Real-time hand-gesture controlled cursor with OpenCV mediapipe                                                                 | Python • OpenCV                              |
-| **Credit Risk Monitor**     | NumPy-powered risk scoring model for loan portfolios                                                                           | Python • NumPy                               |
-| **EV Population Dashboard** | Graph-based insights on EV adoption using MongoDB & Neo4j                                                                      | MongoDB • Neo4j • React                      |
+| Project                     | Brief                                                                                                                          | Tech                                            |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------|
+| **Spotifyzer**              | End-to-end pipeline ingesting Spotify API streams, transforming with AWS Glue, and loading to Snowflake for BI-grade analytics | Python • AWS S3/Glue • Snowflake • Power BI     |
+| **Virtual Mouse**           | Real-time hand-gesture controlled cursor with OpenCV mediapipe                                                                 | Python • OpenCV • Mediapipe                     |
+| **Credit Risk Monitor**     | NumPy-powered risk scoring model for loan portfolios                                                                           | Python • NumPy                                  |
+| **EV Population Dashboard** | Graph-based insights on EV adoption using MongoDB & Neo4j                                                                      | MongoDB • Neo4j • React                         |
 
 ---
 
